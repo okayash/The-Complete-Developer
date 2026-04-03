@@ -1,0 +1,23 @@
+{
+  "name": "the-complete-developer",
+  "version": "1.0.0",
+  "description": "test",
+  "homepage": "https://github.com/okayash/The-Complete-Developer#readme",
+  "bugs": {
+    "url": "https://github.com/okayash/The-Complete-Developer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okayash/The-Complete-Developer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
